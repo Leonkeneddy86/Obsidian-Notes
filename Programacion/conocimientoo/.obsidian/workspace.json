@@ -1,0 +1,403 @@
+{
+  "main": {
+    "id": "44ccf8a7a2bd1e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad1df338dfedbd1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc865a98381e9edf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "18cf6b08755d793f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VSC (THEMES)/Algunos temas para dejar increíble tu VSC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algunos temas para dejar increíble tu VSC"
+            }
+          },
+          {
+            "id": "e5cb70e4d14a8ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postman (Comprueba tu API o consume una)/Uso de Postman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uso de Postman"
+            }
+          },
+          {
+            "id": "24d6d8e8df096561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postman (Comprueba tu API o consume una)/Uso de Postman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uso de Postman"
+            }
+          },
+          {
+            "id": "1dfd9eeccccd8673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estructura de una web en HTML (Propiedades).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estructura de una web en HTML (Propiedades)"
+            }
+          },
+          {
+            "id": "0a7b05c6268cb40f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back-End/Laravel/Guia Laravel/Guía de PHP  - Laravel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guía de PHP  - Laravel"
+            }
+          },
+          {
+            "id": "62dac19a735e3073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back-End/Laravel/Guia Laravel/Guía de PHP  - Laravel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guía de PHP  - Laravel"
+            }
+          },
+          {
+            "id": "6321638dc0ece862",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Fundamentos de la nube/Fundamentos-de-la-nube-II.pdf",
+                "page": 1,
+                "left": -20,
+                "top": 909,
+                "zoom": 0.7366666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "Fundamentos-de-la-nube-II"
+            }
+          },
+          {
+            "id": "1bdd8ae3ed9f4b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOLID (Programacion Orientada a objetos)/Los principios SOLID de programación orientada a objetos explicados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Los principios SOLID de programación orientada a objetos explicados"
+            }
+          },
+          {
+            "id": "478f72fea8548266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consejos de Interfaz de Usuario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consejos de Interfaz de Usuario"
+            }
+          },
+          {
+            "id": "f3eb48b0fe3b8387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Instalacion Git + Extensiones + Cosas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instalacion Git + Extensiones + Cosas"
+            }
+          },
+          {
+            "id": "9d81aa84d4eed7a5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Aprende PHP.pdf",
+                "page": 6,
+                "left": -491,
+                "top": 237,
+                "zoom": 0.4
+              },
+              "icon": "lucide-file-text",
+              "title": "Aprende PHP"
+            }
+          },
+          {
+            "id": "f3d3585fcae519bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inicio Bootcamp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inicio Bootcamp"
+            }
+          },
+          {
+            "id": "97dc36f39ebb8a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atajos de teclado Visual Studio Code/Atajos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atajos"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c37f8180d0d1235",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6101fd86e8e2856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b9f8c26f028e95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "376bbf08c6a47b60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Accesibilidad",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c78b75f1b9323264",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32b96dd6730a96f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da23d4f57cb24ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "554afbdcc04c1b70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Webs Utiles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Webs Utiles"
+            }
+          },
+          {
+            "id": "0c1b193a0fa663bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Presentacion del bootcamp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Presentacion del bootcamp"
+            }
+          },
+          {
+            "id": "728ca51d53320cc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f9b3b3cbf854ead1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Presentacion del bootcamp.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Presentacion del bootcamp"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d9b9f8c26f028e95",
+  "lastOpenFiles": [
+    "keyboard-shortcuts-windows.pdf",
+    "Atajos de teclado Visual Studio Code/Atajos.md",
+    "Atajos de teclado Visual Studio Code",
+    "re-Start (Amazon)",
+    "JavaScript Clean Code.pdf",
+    "Git + Github Desde Cero.pdf",
+    "Error_de_Xampp.pdf",
+    "Consejos de Interfaz de Usuario.md",
+    "Clean Code.md",
+    "Aprende PHP.pdf",
+    "50_ui_tips.pdf",
+    "SOLID (Programacion Orientada a objetos)/Los principios SOLID de programación orientada a objetos explicados.md",
+    "ReadMe/Guía profesional sobre README.md",
+    "JavaScript Pdf Academia X.pdf",
+    "Back-End/Guía de PHP  - Laravel.md",
+    "Front-End/JavaScript/Clean Code & Testing en JavaScript.md",
+    "Hojas de rutas de desarrolladores/Hojas de ruta.md",
+    "Markdown/Guía Markdown.md",
+    "Guía Markdown.md",
+    "Hojas de ruta.md",
+    "Hojas de rutas de desarrolladores",
+    "Markdown",
+    "Git/Instalacion Git + Extensiones + Cosas.md",
+    "JavaScript/Clean Code & Testing en JavaScript.md",
+    "Inicio Bootcamp.md",
+    "Patron de diseño MVC.png",
+    "Patrones de diseño.md",
+    "Relaciones entre tablas.png",
+    "SOLID.png",
+    "Fundamentos de la nube/Fundamentos de la nube.md",
+    "CamelCase/CamelCase.md",
+    "Front-End/Construccion de paginas web/HTML.md",
+    "Front-End/Modo Responsive/Ver Responsive en movil en tu Web.md",
+    "Front-End/CSS/Uso de CSS.md",
+    "Editores de Codigo/Editores de Código.md",
+    "Front-End/Construccion de paginas web/Estructura de una web en HTML (Propiedades).md",
+    "Back-End/Xampp/Error de  XAMPP.md",
+    "Front-End/Extensiones (HTML CSS, JAVASCRIPT)/Extensiones Para HTML, CSS, JAVASCRIPT.md",
+    "VSC (THEMES)/Algunos temas para dejar increíble tu VSC.md",
+    "Front-End/Construccion de paginas web/Estructura HTML.png",
+    "Git/image (1).png",
+    "Git/image.png",
+    "Captura de pantalla 2024-12-02 185046.png",
+    "Git/Captura de pantalla 2024-12-02 184108 1.png",
+    "Captura de pantalla 2024-12-02 184108.png",
+    "Captura de pantalla 2024-12-02 184759.png"
+  ]
+}

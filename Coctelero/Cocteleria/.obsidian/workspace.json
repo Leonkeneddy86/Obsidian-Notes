@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "04377a4fa77f692f",
+    "type": "split",
+    "children": [
+      {
+        "id": "631c17fa8d92a97a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d6cdf8d28c6dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tipos de Cocteles/Cocteles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cocteles"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22f8a1085f37482f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b68b14026f1b231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8952d0be1153b93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "6522dee7d6a00716",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c875675b28a1e8ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2ca1ad0db2e0a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d30813d3b1d8b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddb0de872c0ebd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tipos de Cocteles/Cocteles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Cocteles"
+            }
+          },
+          {
+            "id": "762e22d04790907c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tipos de Cocteles/Cocteles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Cocteles"
+            }
+          },
+          {
+            "id": "ed2e21db6bdb9387",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "bd43d1c1409b71ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tipos de Cocteles/Cocteles.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Cocteles"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e8952d0be1153b93",
+  "lastOpenFiles": [
+    "Bienvenido.md",
+    "Tipos de Cocteles/Cocteles.md",
+    "Tipos de Cocteles"
+  ]
+}
