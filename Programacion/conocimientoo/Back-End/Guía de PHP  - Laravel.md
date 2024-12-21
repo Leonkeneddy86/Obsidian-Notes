@@ -108,13 +108,6 @@ php artisan make:migration create_NombreDeTuTabla_table
 ## Crear Faker para PHP Vanilla o Laravel
 
  # GitHub (https://github.com/fzaninotto/Faker)
-
-
-
-![[Test_coverage_para_Laravel.pdf]]
-
-
-
 ## Extensiones para Laravel
 
 -  Laravel Blade Snippets (Winnie Lin)  Link: (https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)

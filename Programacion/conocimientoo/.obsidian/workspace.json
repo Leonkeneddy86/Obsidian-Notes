@@ -193,18 +193,34 @@
             "id": "97dc36f39ebb8a28",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SdeSOLID.pdf",
+                "page": 1,
+                "left": -25,
+                "top": 819,
+                "zoom": 0.59375
+              },
+              "icon": "lucide-file-text",
+              "title": "SdeSOLID"
+            }
+          },
+          {
+            "id": "3e9e8577ad122238",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Atajos de teclado Visual Studio Code/Atajos.md",
+                "file": "JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atajos"
+              "title": "JWT"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -351,10 +367,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9b9f8c26f028e95",
+  "active": "3e9e8577ad122238",
   "lastOpenFiles": [
-    "keyboard-shortcuts-windows.pdf",
+    "SdeSOLID.pdf",
+    "JWT.md",
+    "Generacion de Web Tokens",
+    "Markdown/Guía Markdown.md",
     "Atajos de teclado Visual Studio Code/Atajos.md",
+    "Back-End/Guía de PHP  - Laravel.md",
+    "keyboard-shortcuts-windows.pdf",
     "Atajos de teclado Visual Studio Code",
     "re-Start (Amazon)",
     "JavaScript Clean Code.pdf",
@@ -366,15 +387,10 @@
     "50_ui_tips.pdf",
     "SOLID (Programacion Orientada a objetos)/Los principios SOLID de programación orientada a objetos explicados.md",
     "ReadMe/Guía profesional sobre README.md",
-    "JavaScript Pdf Academia X.pdf",
-    "Back-End/Guía de PHP  - Laravel.md",
     "Front-End/JavaScript/Clean Code & Testing en JavaScript.md",
     "Hojas de rutas de desarrolladores/Hojas de ruta.md",
-    "Markdown/Guía Markdown.md",
     "Guía Markdown.md",
     "Hojas de ruta.md",
-    "Hojas de rutas de desarrolladores",
-    "Markdown",
     "Git/Instalacion Git + Extensiones + Cosas.md",
     "JavaScript/Clean Code & Testing en JavaScript.md",
     "Inicio Bootcamp.md",
@@ -391,7 +407,6 @@
     "Front-End/Construccion de paginas web/Estructura de una web en HTML (Propiedades).md",
     "Back-End/Xampp/Error de  XAMPP.md",
     "Front-End/Extensiones (HTML CSS, JAVASCRIPT)/Extensiones Para HTML, CSS, JAVASCRIPT.md",
-    "VSC (THEMES)/Algunos temas para dejar increíble tu VSC.md",
     "Front-End/Construccion de paginas web/Estructura HTML.png",
     "Git/image (1).png",
     "Git/image.png",
