@@ -8,233 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc865a98381e9edf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "18cf6b08755d793f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VSC (THEMES)/Algunos temas para dejar increíble tu VSC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Algunos temas para dejar increíble tu VSC"
-            }
-          },
-          {
-            "id": "e5cb70e4d14a8ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postman (Comprueba tu API o consume una)/Uso de Postman.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uso de Postman"
-            }
-          },
-          {
-            "id": "24d6d8e8df096561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postman (Comprueba tu API o consume una)/Uso de Postman.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uso de Postman"
-            }
-          },
-          {
-            "id": "1dfd9eeccccd8673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estructura de una web en HTML (Propiedades).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estructura de una web en HTML (Propiedades)"
-            }
-          },
-          {
-            "id": "0a7b05c6268cb40f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back-End/Laravel/Guia Laravel/Guía de PHP  - Laravel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guía de PHP  - Laravel"
-            }
-          },
-          {
-            "id": "62dac19a735e3073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back-End/Laravel/Guia Laravel/Guía de PHP  - Laravel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guía de PHP  - Laravel"
-            }
-          },
-          {
-            "id": "6321638dc0ece862",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fundamentos de la nube/Fundamentos-de-la-nube-II.pdf",
-                "page": 1,
-                "left": -20,
-                "top": 909,
-                "zoom": 0.7366666666666667
-              },
-              "icon": "lucide-file-text",
-              "title": "Fundamentos-de-la-nube-II"
-            }
-          },
-          {
-            "id": "1bdd8ae3ed9f4b2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOLID (Programacion Orientada a objetos)/Los principios SOLID de programación orientada a objetos explicados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Los principios SOLID de programación orientada a objetos explicados"
-            }
-          },
-          {
-            "id": "478f72fea8548266",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consejos de Interfaz de Usuario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Consejos de Interfaz de Usuario"
-            }
-          },
-          {
-            "id": "f3eb48b0fe3b8387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Instalacion Git + Extensiones + Cosas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instalacion Git + Extensiones + Cosas"
-            }
-          },
-          {
-            "id": "9d81aa84d4eed7a5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Aprende PHP.pdf",
-                "page": 6,
-                "left": -491,
-                "top": 237,
-                "zoom": 0.4
-              },
-              "icon": "lucide-file-text",
-              "title": "Aprende PHP"
-            }
-          },
-          {
-            "id": "f3d3585fcae519bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inicio Bootcamp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inicio Bootcamp"
-            }
-          },
-          {
-            "id": "97dc36f39ebb8a28",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SdeSOLID.pdf",
-                "page": 1,
-                "left": -25,
-                "top": 819,
-                "zoom": 0.59375
-              },
-              "icon": "lucide-file-text",
-              "title": "SdeSOLID"
-            }
-          },
-          {
-            "id": "3e9e8577ad122238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-End/Construccion de paginas web/HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML"
-            }
-          },
-          {
             "id": "cc761637dfd39707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensiones recomendadas Mouredev.md",
+                "file": "Back-End/Guía de PHP  - Laravel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extensiones recomendadas Mouredev"
+              "title": "Guía de PHP  - Laravel"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -383,45 +170,44 @@
   },
   "active": "cc761637dfd39707",
   "lastOpenFiles": [
-    "Front-End/Construccion de paginas web/HTML.md",
-    "Extensiones recomendadas Mouredev.md",
-    "Extensiones VSC (Generales)",
-    "Back-End/Guía de PHP  - Laravel.md",
-    "JWT.md",
-    "SdeSOLID.pdf",
-    "Generacion de Web Tokens",
-    "Markdown/Guía Markdown.md",
-    "Atajos de teclado Visual Studio Code/Atajos.md",
-    "keyboard-shortcuts-windows.pdf",
-    "Atajos de teclado Visual Studio Code",
-    "re-Start (Amazon)",
-    "JavaScript Clean Code.pdf",
-    "Git + Github Desde Cero.pdf",
-    "Error_de_Xampp.pdf",
-    "Consejos de Interfaz de Usuario.md",
-    "Clean Code.md",
-    "Aprende PHP.pdf",
+    "Patrones de diseño.pdf",
     "SOLID (Programacion Orientada a objetos)/Los principios SOLID de programación orientada a objetos explicados.md",
-    "ReadMe/Guía profesional sobre README.md",
-    "Front-End/JavaScript/Clean Code & Testing en JavaScript.md",
-    "Hojas de rutas de desarrolladores/Hojas de ruta.md",
-    "Guía Markdown.md",
-    "Hojas de ruta.md",
-    "Git/Instalacion Git + Extensiones + Cosas.md",
-    "JavaScript/Clean Code & Testing en JavaScript.md",
+    "Git + Github Desde Cero.pdf",
+    "Atajos de teclado Visual Studio Code/Atajos.md",
+    "JavaScript Clean Code.pdf",
+    "Consejos de Interfaz de Usuario.md",
     "Inicio Bootcamp.md",
-    "Patron de diseño MVC.png",
-    "Patrones de diseño.md",
-    "Relaciones entre tablas.png",
+    "Extensiones recomendadas Mouredev.md",
+    "Clean Code.md",
     "SOLID.png",
+    "SdeSOLID.pdf",
+    "Git/Instalación Git + Extensiones + Cosas.md",
+    "Fundamentos de la nube/Fundamentos-de-la-nube-I.pdf",
     "Fundamentos de la nube/Fundamentos de la nube.md",
-    "CamelCase/CamelCase.md",
-    "Front-End/Modo Responsive/Ver Responsive en movil en tu Web.md",
+    "Front-End/JavaScript/Clean Code & Testing en JavaScript.md",
+    "Uso del terminal - Git bash.pdf",
+    "Test_coverage_para_Laravel.pdf",
+    "SOLID.pdf",
+    "Patrones de diseño.md",
+    "JWT.md",
+    "VSC (THEMES)/Algunos temas para dejar increíble tu VSC.md",
+    "Uso de Docker (Despliegue de aplicaciones)/Instalación de Docker.md",
+    "ReadMe/Guía profesional sobre README.md",
+    "Postman (Comprueba tu API o consume una)/Uso de Postman.md",
+    "Markdown/Guía Markdown.md",
+    "Las Historias de Usuario/Historias de usuario.md",
+    "Hojas de rutas de desarrolladores/Hojas de ruta.md",
+    "Front-End/Diseño UX-UI/Diseño UX-UI.pdf",
     "Front-End/CSS/Uso de CSS.md",
+    "Front-End/Construccion de paginas web/HTML.md",
+    "Accesibilidad.md",
+    "Back-End/Guía de PHP  - Laravel.md",
+    "Libro.md",
     "Editores de Codigo/Editores de Código.md",
-    "Front-End/Construccion de paginas web/Estructura de una web en HTML (Propiedades).md",
-    "Back-End/Xampp/Error de  XAMPP.md",
-    "Front-End/Extensiones (HTML CSS, JAVASCRIPT)/Extensiones Para HTML, CSS, JAVASCRIPT.md",
+    "CamelCase/Tipos de CamelCase.md",
+    "Error_de_Xampp.pdf",
+    "Patron de diseño MVC.png",
+    "Relaciones entre tablas.png",
     "Front-End/Construccion de paginas web/Estructura HTML.png",
     "Git/image (1).png",
     "Git/image.png",

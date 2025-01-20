@@ -1,2 +1,0 @@
-
-![[Presentación inicio Bootcamp.pdf]]

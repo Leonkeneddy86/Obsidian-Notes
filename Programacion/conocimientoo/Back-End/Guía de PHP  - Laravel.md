@@ -1,139 +1,188 @@
-## Crear Proyecto en Laravel
+ guía para crear un proyecto en Laravel. He organizado la información en secciones claras y he añadido algunos comentarios para facilitar la comprensión.
 
-###### Copia y pega esta línea de código en tu proyecto de V
+---
 
-`composer create-project --prefer-dist laravel/laravel NombreDeTuCarpeta`
+Aquí tienes el texto refactorizado sobre la creación de un proyecto en Laravel, manteniendo toda la información original:
 
-# Iniciar siempre servidor Nodejs
+---
 
-- `npm install`
-- `npm update` (en caso de hacer un fork del repositorio, o actualizar npm)
-- `npm run dev` Iniciar servidor PHP/Laravel
+# Crear Proyecto en Laravel
 
-# Instalación de composer en tu proyecto
+### 1. Crear un Nuevo Proyecto
 
-- `composer install`
-- (instala composer en el proyecto)
-- `composer update` 
-- (en caso de tener que actualizar)
-# Iniciar servidor PHP Laravel
+Copia y pega la siguiente línea de código en tu terminal:
 
-```
-	npm run build
-	composer run dev
-```
-```
-- php artisan serve
+```bash
+composer create-project --prefer-dist laravel/laravel NombreDeTuCarpeta
 ```
 
-# Generar key para archivo .env
-- `php artisan install key:generate`` 
-- (fijarse en el archivo `.env` para comprobar que se haya generado)
-- `php artisan config:cache` 
-- (para resetear la KEY)
-# Generar test y Reporte en el Index
+### 2. Iniciar el Servidor Node.js
+
+Ejecuta los siguientes comandos para iniciar el servidor Node.js:
+
+```bash
+npm install
+npm update  # En caso de hacer un fork del repositorio o actualizar npm
+npm run dev
 ```
-- php artisan test --coverage
-- php artisan test --coverage-html=coverage-report
+
+### 3. Instalación de Composer en tu Proyecto
+
+Ejecuta los siguientes comandos para instalar Composer:
+
+```bash
+composer install  # Instala Composer en el proyecto
+composer update    # En caso de tener que actualizar
 ```
 
+### 4. Iniciar el Servidor PHP/Laravel
 
+Para iniciar el servidor PHP de Laravel, ejecuta:
 
-![[Test_coverage_para_Laravel.pdf]]
-
-
-# Error de Xampp
-
-![[Error_de_Xampp.pdf]]
-
-# Hacer Migraciones de tu código a la base de datos y crear una tabla, o dos.
-
+```bash
+npm run build
+composer run dev
+php artisan serve
 ```
+
+### 5. Generar Clave para el Archivo `.env`
+
+Genera la clave ejecutando:
+
+```bash
+php artisan key:generate
+```
+
+Verifica en el archivo `.env` que se haya generado correctamente. Luego, ejecuta:
+
+```bash
+php artisan config:cache  # Para resetear la KEY
+```
+
+### 6. Generar Tests y Reporte en el Índice
+
+Ejecuta los siguientes comandos para generar tests y reportes:
+
+```bash
+php artisan test --coverage
+php artisan test --coverage-html=coverage-report
+```
+
+![Test Coverage para Laravel](Test_coverage_para_Laravel.pdf)
+
+### 7. Manejo de Errores en XAMPP
+
+![Error de XAMPP](Error_de_Xampp.pdf)
+
+### 8. Hacer Migraciones a la Base de Datos
+
+Para migrar tu código a la base de datos y crear tablas, ejecuta:
+
+```bash
 php artisan migrate:fresh 
 php artisan migrate:fresh --seed
 php artisan make:migration create_NombreDeTuTabla_table
 ```
 
-# La instalación de la API luego la podremos comprobar con Postman
+### 9. Instalación de la API
 
-###### - Comando instalar API (CarpetaRoutes)
+Para instalar la API, ejecuta el siguiente comando en la carpeta `Routes`:
 
-- `php artisan install:api`
+```bash
+php artisan install:api
+```
 
-	###### En app/http/controllers, creamos la carpeta api y mediante el siguiente comando creamos la API
-	
-	`php artisan make:controller Api/NombreDeTuControlador --resource`
-	
-	###### Esto también se tiene que repetir si hacemos tablas relacionadas 
-	
-    En `phpunit.xml` se descomentan las líneas.
+En `app/http/controllers`, crea la carpeta `api` y ejecuta:
 
-## Comando para hacer modelo, controlador y tabla (Esto es para hacer tablas relacionadas)
+```bash
+php artisan make:controller Api/NombreDeTuControlador --resource
+```
+
+Esto también se debe repetir si haces tablas relacionadas. Asegúrate de descomentar las líneas en `phpunit.xml`.
+
+### 10. Comando para Crear Modelo, Controlador y Tabla
+
+Para crear un modelo, controlador y tabla (esto es para hacer tablas relacionadas), ejecuta:
+
+![Relaciones entre tablas](Relaciones entre tablas.png)
+
+```bash
+php artisan make:model Follow -mcr
+```
+
+### 11. Empezar a Trabajar con Blade
+
+- En `views`, crea las carpetas `components` y `layouts`. Dentro de `layouts`, crea el archivo `app.blade.php`.
+- En `components`, crea `footer.blade.php` y `header.blade.php` y rellénalos con contenido básico.
+- En `public`, crea la carpeta `css` y dentro, el archivo `app.css` para agregar estilos básicos.
+
+### 12. Empezar a Trabajar con el Patrón de Diseño MVC
+
+![Patrón de diseño MVC](Patron de diseño MVC.png)
+
+- Para instalar el modelo:
+  ```bash
+  php artisan make:model NombreDeTuModelo
+  ```
+
+- Para instalar el controlador:
+  ```bash
+  php artisan make:controller NombreDeTuControlador
+  ```
+
+- Para instalar la vista:
+  ```bash
+  php artisan make:view home
+  ```
+
+### 13. Creación de Tests y Ejecución desde la Terminal
+
+Para crear un test, ejecuta:
+
+```bash
+php artisan make:test NombreTest
+```
+
+Para ejecutar los tests, utiliza:
+
+```bash
+php artisan test --env=testing
+php artisan test
+php artisan test --coverage
+```
+
+### 14. Creación de Factorías
+
+Para crear una factoría, ejecuta:
+
+```bash
+php artisan make:factory NombreFactory
+```
+
+### 15. Crear Faker para PHP Vanilla o Laravel
+
+Visita el repositorio de Faker en GitHub: [Faker GitHub](https://github.com/fzaninotto/Faker)
+
+### 16. Extensiones
 
 
-![[Relaciones entre tablas.png]]
+-------
 
-- `php artisan make:model Follow -mcr`
-
-## Empezar a trabajar con Blade
-
-##### - En views crea la carpeta components y layouts; dentro de layout crea archivo app.blade.php
-##### - En components crea footer.blade.php y header.blade.php y rellena con basicos
-##### -  En public crea carpeta css y dentro el archivo app.css y le metes estilos básicos 
-## Empezar a trabajar con el patrón de diseño MVC
-
-
-![[Patron de diseño MVC.png]]
-
-
-###### - Para instalar el Modelo:  `php artisan make:model NombreDeTuModelo`
-###### - Para instalar el controlador:  `php artisan make:controller NombreDeTuControlador`
-###### - Para instalar la vista:  `php artisan make:view home`  
-
-## ## Creación de test y correr los test desde la terminal
-
-`php artisan make:test NombreTest`
-
-  `php artisan test --env=testing`
-
-	php artisan test
-
-		php artisan test --coverage
-
-
-# Creación de Factorias
-
-`php artisan make:factory NombreFactory`
-
-## Crear Faker para PHP Vanilla o Laravel
-
- # GitHub (https://github.com/fzaninotto/Faker)
 ## Extensiones para Laravel
 
--  Laravel Blade Snippets (Winnie Lin)  Link: (https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
--  Laravel Extra Intellisense (amir)  Link: (https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense)
--  Laravel Blade formatter (Shuhei Hayashibara)  Link: (https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter)
--  Laravel intellisense (Mohamed Benhida Link: (https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense)
--  PHP Namespace Resolver - Mehedi Hassan Link: (https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
-## Extensiones PHP Vanilla 
+- **Laravel Blade Snippets (Winnie Lin)**: [Link](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
+- **Laravel Extra Intellisense (amir)**: [Link](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense)
+- **Laravel Blade Formatter (Shuhei Hayashibara)**: [Link](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter)
+- **Laravel Intellisense (Mohamed Benhida)**: [Link](https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense)
+- **PHP Namespace Resolver (Mehedi Hassan)**: [Link](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
 
-- PHP Intelephense (Ben Mewburn)  Link: (https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
-- PHP IntelliSense (Damjan Cvetko)  Link: (https://marketplace.visualstudio.com/items?itemName=zobo.php-intellisense)
-- php cs fixer (junstyle) Link: (https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
-- PHP Snippets from PHPStorm (Phiter Fernandes) Link: (https://marketplace.visualstudio.com/items?itemName=phiter.phpstorm-snippets)
-## Programas para el back-end
+## Extensiones para PHP Vanilla
 
- Nodejs (https://nodejs.org/en/)
-- Composer (https://getcomposer.org/)
-- Para comprobar version Nodejs
-- `npm --version`
-- para comprobar version composer 
-- `composer --version`
+- **PHP Intelephense (Ben Mewburn)**: [Link](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+- **PHP IntelliSense (Damjan Cvetko)**: [Link](https://marketplace.visualstudio.com/items?itemName=zobo.php-intellisense)
+- **PHP CS Fixer (junstyle)**: [Link](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
+- **PHP Snippets from PHPStorm (Phiter Fernandes)**: [Link](https://marketplace.visualstudio.com/items?itemName=phiter.phpstorm-snippets)
 
+---
 
-
-
-
-
-
-
+Estas extensiones mejorarán tu experiencia de desarrollo en Laravel y PHP Vanilla, proporcionando herramientas útiles para la codificación y el mantenimiento del código.
