@@ -105,11 +105,21 @@ Esto también se debe repetir si haces tablas relacionadas. Asegúrate de descom
 Para crear un modelo, controlador y tabla (esto es para hacer tablas relacionadas), ejecuta:
 
 ![Relaciones entre tablas](Relaciones entre tablas.png)
+![[Relaciones entre tablas.png]]
 
 ```bash
 php artisan make:model Follow -mcr
 ```
 
+
+### Instalar Laravel UI y Bootstrap Auth Scaffolding
+
+Para instalar Laravel UI y el scaffolding de autenticación de Bootstrap, ejecuta los siguientes comandos:
+
+```
+composer require laravel/ui
+php artisan ui bootstrap --auth
+```
 ### 11. Empezar a Trabajar con Blade
 
 - En `views`, crea las carpetas `components` y `layouts`. Dentro de `layouts`, crea el archivo `app.blade.php`.
@@ -119,6 +129,7 @@ php artisan make:model Follow -mcr
 ### 12. Empezar a Trabajar con el Patrón de Diseño MVC
 
 ![Patrón de diseño MVC](Patron de diseño MVC.png)
+![[Patron de diseño MVC.png]]
 
 - Para instalar el modelo:
   ```bash

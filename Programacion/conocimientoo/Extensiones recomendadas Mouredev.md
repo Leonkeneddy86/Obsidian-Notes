@@ -1,4 +1,4 @@
-Aquí tienes el texto refactorizado sobre extensiones para Visual Studio Code, junto con algunos nuevos temas populares añadidos:
+extensiones para Visual Studio Code
 
 ---
 
