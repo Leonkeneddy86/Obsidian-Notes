@@ -74,7 +74,7 @@ php artisan test --coverage-html=coverage-report
 
 ![Error de XAMPP](Error_de_Xampp.pdf)
 
-### 8. Hacer Migraciones a la Base de Datos
+### 8. Hacer Migraciones a la Base de Datos y crear tablas
 
 Para migrar tu código a la base de datos y crear tablas, ejecuta:
 
@@ -100,6 +100,16 @@ php artisan make:controller Api/NombreDeTuControlador --resource
 
 Esto también se debe repetir si haces tablas relacionadas. Asegúrate de descomentar las líneas en `phpunit.xml`.
 
+###  11 Crear factorias
+```
+php artisan make:factory Nombredetufactoria
+```
+
+
+###  12 Crear Seeders
+```
+php artisan make:seeder NombredetuSeeder
+```
 ### 10. Comando para Crear Modelo, Controlador y Tabla
 
 Para crear un modelo, controlador y tabla (esto es para hacer tablas relacionadas), ejecuta:

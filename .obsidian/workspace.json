@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -162,8 +163,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2cbf71f09d4206f7",
+  "active": "e8aae9ab4c2cef6f",
   "lastOpenFiles": [
+    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Computo en la nube/¿Qué es el cómputo en la nube_.pdf",
+    "Programacion/conocimientoo/Git/Instalación Git + Extensiones + Cosas.md",
     "Programacion/conocimientoo/Back-End/Guía de PHP  - Laravel.md",
     "Amazon S3.md",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Computo en la nube/Conceptos basicos del computo/Conceptos básicos del computo.md",
@@ -207,8 +210,6 @@
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Introduccion al computo/Ventajas del computo en la nube/Ventajas del computo en la nube.md",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Introduccion al computo/Conceptos basicos del computo/Conceptos básicos del computo.md",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Ventajas del computo en la nube/Ventajas del computo en la nube.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Conceptos basicos del computo/Conceptos básicos del computo.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Computo en la nube/Computo en la nube.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Ventajas del computo en la nube.md"
+    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Conceptos basicos del computo/Conceptos básicos del computo.md"
   ]
 }
