@@ -34,6 +34,8 @@ Aquí tienes el texto refactorizado para mayor claridad y organización:
      ```
    - Esto descargará una imagen de prueba y ejecutará un contenedor que imprime un mensaje de bienvenida.
 
+
+
 ---
 
 ### Crear tu Primera Aplicación Docker

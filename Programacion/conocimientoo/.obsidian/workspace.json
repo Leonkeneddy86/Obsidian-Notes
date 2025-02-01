@@ -11,14 +11,12 @@
             "id": "b3c8898da1d94dec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Recursos Empleabilidad.md",
-                "mode": "source",
-                "source": false
+                "file": "Front-End/Construccion de paginas web/Estructura HTML.png"
               },
-              "icon": "lucide-file",
-              "title": "Recursos Empleabilidad"
+              "icon": "lucide-image",
+              "title": "Estructura HTML"
             }
           }
         ]
@@ -40,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -160,36 +159,48 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "b3c8898da1d94dec",
   "lastOpenFiles": [
-    "COMP. TRANSVERSALES - EL CV-.pdf",
-    "LINKEDIN Y MARCA PERSONAL.pdf",
+    "VSC (THEMES Y EXTENSIONES)/Extensiones recomendadas Mouredev.md",
+    "VSC (THEMES Y EXTENSIONES)/Algunos temas para dejar increíble tu VSC.md",
+    "VSC (THEMES Y EXTENSIONES)",
+    "Tipos de datos/Tipos de datos en programación.md",
+    "Tipos de datos",
+    "Programacion Orientada a objetos)/¿Qué son los principios SOLID en programación La mejor explicación en español.mp4",
+    "Programacion Orientada a objetos)/clase-poo.rar",
+    "Programacion Orientada a objetos)/SdeSOLID.pdf",
+    "Programacion Orientada a objetos)/SOLID.png",
+    "Programacion Orientada a objetos)/SOLID.pdf",
+    "Programacion Orientada a objetos)/Principios(1).pdf",
+    "Programacion Orientada a objetos)/Principios Intro.pdf",
+    "GitHub/Git + Github Desde Cero.pdf",
+    "GitHub",
+    "Empleabilidad/Recursos Empleabilidad.md",
+    "Empleabilidad/LINKEDIN_Y_MARCA_PERSONAL.pdf.md",
+    "Back-End/Relaciones entre tablas.png",
+    "Back-End/Patron de diseño MVC.png",
+    "Back-End/JWT.md",
+    "Roadmap para desarrollo de apps moviles.md",
+    "Hojas de rutas de desarrolladores/Roadmap para desarrollo de apps moviles.md",
+    "Desarrollo de Apps Moviles/Extensiones de Android Studio.md",
+    "Extensiones de Android Studio.md",
+    "Front-End/Construccion de paginas web/Estructura HTML.png",
+    "Uso de Docker (Despliegue de aplicaciones)/Instalación de Docker.md",
+    "Recursos Empleabilidad.md",
     "Extensiones recomendadas Mouredev.md",
-    "Aprende PHP.pdf",
     "Consejos de Interfaz de Usuario.md",
     "LINKEDIN_Y_MARCA_PERSONAL.pdf.md",
-    "Recursos Empleabilidad.md",
     "Back-End/Guía de PHP  - Laravel.md",
-    "Recursos de Trabajo",
     "Patron.md",
     "Relaciones.md",
     "Programacion Orientada a objetos)/Principios (POO).md",
     "Programacion Orientada a objetos)/Los principios SOLID de programación orientada a objetos explicados.md",
-    "Principios(1).pdf",
-    "Principios Intro.pdf",
-    "clase-poo.rar",
-    "Principios",
-    "Programacion Orientada a Objetos (POO)",
-    "Redes.pdf",
-    "Patrones de diseño.pdf",
     "Atajos de teclado Visual Studio Code/Atajos.md",
     "Inicio Bootcamp.md",
     "Clean Code.md",
@@ -197,24 +208,10 @@
     "Git/Instalación Git + Extensiones + Cosas.md",
     "Fundamentos de la nube/Fundamentos de la nube.md",
     "Front-End/JavaScript/Clean Code & Testing en JavaScript.md",
-    "Patrones de diseño.md",
-    "JWT.md",
-    "VSC (THEMES)/Algunos temas para dejar increíble tu VSC.md",
-    "Uso de Docker (Despliegue de aplicaciones)/Instalación de Docker.md",
-    "ReadMe/Guía profesional sobre README.md",
-    "Postman (Comprueba tu API o consume una)/Uso de Postman.md",
-    "Markdown/Guía Markdown.md",
-    "Las Historias de Usuario/Historias de usuario.md",
-    "Hojas de rutas de desarrolladores/Hojas de ruta.md",
-    "Front-End/CSS/Uso de CSS.md",
     "Patron de diseño MVC.png",
     "Relaciones entre tablas.png",
-    "Front-End/Construccion de paginas web/Estructura HTML.png",
     "Git/image (1).png",
     "Git/image.png",
-    "Captura de pantalla 2024-12-02 185046.png",
-    "Git/Captura de pantalla 2024-12-02 184108 1.png",
-    "Captura de pantalla 2024-12-02 184108.png",
-    "Captura de pantalla 2024-12-02 184759.png"
+    "Captura de pantalla 2024-12-02 185046.png"
   ]
 }
