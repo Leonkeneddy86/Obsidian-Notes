@@ -11,12 +11,14 @@
             "id": "b3c8898da1d94dec",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Front-End/Construccion de paginas web/Estructura HTML.png"
+                "file": "Back-End/Guía de PHP  - Laravel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Estructura HTML"
+              "icon": "lucide-file",
+              "title": "Guía de PHP  - Laravel"
             }
           }
         ]
@@ -167,6 +169,7 @@
   },
   "active": "b3c8898da1d94dec",
   "lastOpenFiles": [
+    "Front-End/Construccion de paginas web/Estructura HTML.png",
     "VSC (THEMES Y EXTENSIONES)/Extensiones recomendadas Mouredev.md",
     "VSC (THEMES Y EXTENSIONES)/Algunos temas para dejar increíble tu VSC.md",
     "VSC (THEMES Y EXTENSIONES)",
@@ -190,7 +193,6 @@
     "Hojas de rutas de desarrolladores/Roadmap para desarrollo de apps moviles.md",
     "Desarrollo de Apps Moviles/Extensiones de Android Studio.md",
     "Extensiones de Android Studio.md",
-    "Front-End/Construccion de paginas web/Estructura HTML.png",
     "Uso de Docker (Despliegue de aplicaciones)/Instalación de Docker.md",
     "Recursos Empleabilidad.md",
     "Extensiones recomendadas Mouredev.md",
@@ -207,7 +209,6 @@
     "SOLID.png",
     "Git/Instalación Git + Extensiones + Cosas.md",
     "Fundamentos de la nube/Fundamentos de la nube.md",
-    "Front-End/JavaScript/Clean Code & Testing en JavaScript.md",
     "Patron de diseño MVC.png",
     "Relaciones entre tablas.png",
     "Git/image (1).png",
