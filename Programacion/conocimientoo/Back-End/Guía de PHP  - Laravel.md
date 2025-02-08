@@ -118,7 +118,7 @@ Para crear un modelo, controlador y tabla (esto es para hacer tablas relacionada
 ![[Relaciones entre tablas.png]]
 
 ```bash
-php artisan make:model NombreParaTuMigrationModeloyControlador -mcr
+php artisan make:model NombreParaTuMigrationModeloyControlado -mcr
 ```
 
 
