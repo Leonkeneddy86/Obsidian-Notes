@@ -145,13 +145,33 @@
               "icon": "lucide-list",
               "title": "Outline of Presentacion del bootcamp"
             }
+          },
+          {
+            "id": "628bd12db427f129",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "8e2035d416feca58",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,13 +181,15 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b3c8898da1d94dec",
+  "active": "d9b9f8c26f028e95",
   "lastOpenFiles": [
     "Front-End/Construccion de paginas web/Estructura HTML.png",
     "VSC (THEMES Y EXTENSIONES)/Extensiones recomendadas Mouredev.md",

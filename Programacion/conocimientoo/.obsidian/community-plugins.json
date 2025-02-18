@@ -1,7 +1,15 @@
 [
   "table-editor-obsidian",
-  "obsidian-languagetool-plugin",
   "pdf-plus",
   "code-styler",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "dataview",
+  "obsidian-git",
+  "obsidian-style-settings",
+  "obsidian-importer",
+  "copilot",
+  "obsidian-zotero-desktop-connector",
+  "drawio-obsidian",
+  "todoist-sync-plugin",
+  "ical"
 ]
