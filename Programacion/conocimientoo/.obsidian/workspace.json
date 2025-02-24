@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "63f73d83ee7f78e6",
+        "id": "833edd79f58f59c5",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c8898da1d94dec",
+            "id": "49e883e450e0b805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back-End/Guía de PHP  - Laravel.md",
+                "file": "Back-End/PHP/Guía de PHP  - Laravel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Guía de PHP  - Laravel"
             }
+          },
+          {
+            "id": "913cf3930854ba0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instalación Git + Extensiones + Cosas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instalación Git + Extensiones + Cosas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,16 +162,6 @@
             }
           },
           {
-            "id": "628bd12db427f129",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
             "id": "8e2035d416feca58",
             "type": "leaf",
             "state": {
@@ -167,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,6 +180,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -185,56 +192,55 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d9b9f8c26f028e95",
+  "active": "913cf3930854ba0b",
   "lastOpenFiles": [
+    "Historias de usuario.md",
+    "Extensiones.md",
+    "CamelCase.md",
+    "Hojas de ruta.md",
+    "OOP/Principios (POO).md",
+    "Back-End/PHP",
+    "Instalación Git + Extensiones + Cosas.md",
+    "Algunos temas para dejar increíble tu VSC.md",
+    "POO/Principios.pdf",
+    "POO/Principios Intro.pdf",
+    "POO/SOLID.pdf",
+    "Back-End/PHP/Guía de PHP  - Laravel.md",
+    "Empleabilidad/LINKEDIN Y MARCA PERSONAL.pdf",
+    "Empleabilidad/COMP. TRANSVERSALES - EL CV-.pdf",
+    "Back-End/Test_coverage_para_Laravel.pdf",
+    "Back-End/Error_de_Xampp.pdf",
+    "Tipos de datos en programación.md",
+    "Faker Data Generator.md",
+    "XAMPP MySQL Error Solution.md",
+    "Test Coverage en Laravel.md",
+    "Back-End/Java/Tutoriales/Git y Github (6) 1a15488ad02c8107b762ea37460dc0f5/Diseño Base de Datos Relacionales.md",
+    "Back-End/Java/Tutoriales/Git y Github 1a15488ad02c81fdb442f32504379eaa/CURSO de HTML5 DESDE CERO.md",
+    "Java 1a15488ad02c8165b205ea5ebb975751/Instalación Java 1a15488ad02c81dab072da15c8f30c5c.md",
+    "Back-End/Java/Tutoriales/Git y Github 1a15488ad02c81fdb442f32504379eaa/Curso de CSS Avanzado.md",
+    "Back-End/Java/Tutoriales/Git y Github 1a15488ad02c81fdb442f32504379eaa/Atomic Design.md",
+    "Back-End/Java/Tutoriales/Git y Github (5) 1a15488ad02c810c8f08f258b5b036a6/Una Explicación fácil sobre Spring Framework.md",
+    "Back-End/Java/Tutoriales/Git y Github (5) 1a15488ad02c810c8f08f258b5b036a6/Tutorial Spring boot sencillo y en español.md",
+    "Back-End/Java/Tutoriales/Git y Github (5) 1a15488ad02c810c8f08f258b5b036a6/Spring Boot Validation.md",
+    "Back-End/Java/Tutoriales/Git y Github (5) 1a15488ad02c810c8f08f258b5b036a6/RELACION OneToMany.md",
+    "Back-End/Java/Tutoriales/Git y Github (5) 1a15488ad02c810c8f08f258b5b036a6/ManyToMany ManyToOne OneToMany.md",
+    "Back-End/Java/Tutoriales/Git y Github (5) 1a15488ad02c810c8f08f258b5b036a6/Crea tu primer API explicado desde cero Spring Boot.md",
+    "Back-End/Java/Tutoriales/Git y Github (4) 1a15488ad02c810e9b5be41ba875594d/Sin título.md",
+    "Back-End/Java/Tutoriales/Git y Github (4) 1a15488ad02c810e9b5be41ba875594d/Principios SOLID.md",
+    "Java 1a15488ad02c8165b205ea5ebb975751",
+    "Back-End/Java/Tutoriales/Git y Github 1a15488ad02c81fdb442f32504379eaa/Curso de CSS Avanzado 1a15488ad02c811c80b1d2838b1c2b73/image.png",
+    "Back-End/Java/Tutoriales/Git y Github 1a15488ad02c81fdb442f32504379eaa/Curso de CSS Avanzado 1a15488ad02c811c80b1d2838b1c2b73",
+    "Java 1a15488ad02c806cb8c0e248a280e6e6/Tutoriales 1a15488ad02c8112b8fec48865d043fc/Git y Github 1a15488ad02c81fdb442f32504379eaa/Curso de CSS Avanzado 1a15488ad02c811c80b1d2838b1c2b73/image.png",
     "Front-End/Construccion de paginas web/Estructura HTML.png",
-    "VSC (THEMES Y EXTENSIONES)/Extensiones recomendadas Mouredev.md",
-    "VSC (THEMES Y EXTENSIONES)/Algunos temas para dejar increíble tu VSC.md",
-    "VSC (THEMES Y EXTENSIONES)",
-    "Tipos de datos/Tipos de datos en programación.md",
-    "Tipos de datos",
-    "Programacion Orientada a objetos)/¿Qué son los principios SOLID en programación La mejor explicación en español.mp4",
-    "Programacion Orientada a objetos)/clase-poo.rar",
-    "Programacion Orientada a objetos)/SdeSOLID.pdf",
     "Programacion Orientada a objetos)/SOLID.png",
-    "Programacion Orientada a objetos)/SOLID.pdf",
-    "Programacion Orientada a objetos)/Principios(1).pdf",
-    "Programacion Orientada a objetos)/Principios Intro.pdf",
-    "GitHub/Git + Github Desde Cero.pdf",
-    "GitHub",
-    "Empleabilidad/Recursos Empleabilidad.md",
-    "Empleabilidad/LINKEDIN_Y_MARCA_PERSONAL.pdf.md",
     "Back-End/Relaciones entre tablas.png",
     "Back-End/Patron de diseño MVC.png",
-    "Back-End/JWT.md",
-    "Roadmap para desarrollo de apps moviles.md",
-    "Hojas de rutas de desarrolladores/Roadmap para desarrollo de apps moviles.md",
-    "Desarrollo de Apps Moviles/Extensiones de Android Studio.md",
-    "Extensiones de Android Studio.md",
-    "Uso de Docker (Despliegue de aplicaciones)/Instalación de Docker.md",
-    "Recursos Empleabilidad.md",
-    "Extensiones recomendadas Mouredev.md",
-    "Consejos de Interfaz de Usuario.md",
-    "LINKEDIN_Y_MARCA_PERSONAL.pdf.md",
-    "Back-End/Guía de PHP  - Laravel.md",
-    "Patron.md",
-    "Relaciones.md",
-    "Programacion Orientada a objetos)/Principios (POO).md",
-    "Programacion Orientada a objetos)/Los principios SOLID de programación orientada a objetos explicados.md",
-    "Atajos de teclado Visual Studio Code/Atajos.md",
-    "Inicio Bootcamp.md",
-    "Clean Code.md",
     "SOLID.png",
-    "Git/Instalación Git + Extensiones + Cosas.md",
-    "Fundamentos de la nube/Fundamentos de la nube.md",
     "Patron de diseño MVC.png",
     "Relaciones entre tablas.png",
-    "Git/image (1).png",
-    "Git/image.png",
-    "Captura de pantalla 2024-12-02 185046.png"
+    "Git/image (1).png"
   ]
 }

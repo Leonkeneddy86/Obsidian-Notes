@@ -7,9 +7,9 @@
   "obsidian-git",
   "obsidian-style-settings",
   "obsidian-importer",
-  "copilot",
   "obsidian-zotero-desktop-connector",
   "drawio-obsidian",
-  "todoist-sync-plugin",
-  "ical"
+  "ical",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian"
 ]
