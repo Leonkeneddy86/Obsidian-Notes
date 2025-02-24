@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "php",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,11 +164,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e8aae9ab4c2cef6f",
+  "active": "8b502b5c7bc8f0dd",
   "lastOpenFiles": [
+    "Programacion/conocimientoo/VSC (THEMES Y EXTENSIONES)/Algunos temas para dejar increíble tu VSC.md",
+    "Programacion/conocimientoo/Front-End/Construccion de paginas web/HTML.md",
+    "Programacion/conocimientoo/VSC (THEMES Y EXTENSIONES)/Extensiones recomendadas Mouredev.md",
+    "Programacion/conocimientoo/Back-End/Guía de PHP  - Laravel.md",
+    "Programacion/conocimientoo/Back-End/Aprende PHP.pdf",
+    "Programacion/conocimientoo/Front-End/CSS/Uso de CSS.md",
+    "Programacion/conocimientoo/Back-End/Relaciones entre tablas.png",
+    "Programacion/conocimientoo/Front-End/JavaScript/Clean Code & Testing en JavaScript.md",
+    "Programacion/conocimientoo/Front-End/JavaScript/JavaScript Pdf Academia X.pdf",
+    "Programacion/conocimientoo/Front-End/JavaScript/JavaScript Clean Code.pdf",
+    "Programacion/conocimientoo/Back-End/Test_coverage_para_Laravel.pdf",
+    "Programacion/conocimientoo/Back-End/Patron de diseño MVC.png",
+    "Programacion/conocimientoo/Back-End/JWT.md",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Computo en la nube/¿Qué es el cómputo en la nube_.pdf",
     "Programacion/conocimientoo/Git/Instalación Git + Extensiones + Cosas.md",
-    "Programacion/conocimientoo/Back-End/Guía de PHP  - Laravel.md",
     "Amazon S3.md",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Computo en la nube/Conceptos basicos del computo/Conceptos básicos del computo.md",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Roles del equipo de desarrollo/Roles del equipo de desarrollo.md",
@@ -187,29 +200,17 @@
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Roles del equipo de desarrollo/Aspose.Words.bad9f896-1af8-4a24-8e8a-1c54740d3c9f.008.png",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Roles del equipo de desarrollo/Aspose.Words.bad9f896-1af8-4a24-8e8a-1c54740d3c9f.007.png",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Roles del equipo de desarrollo/Aspose.Words.bad9f896-1af8-4a24-8e8a-1c54740d3c9f.006.png",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Roles del equipo de desarrollo/Aspose.Words.bad9f896-1af8-4a24-8e8a-1c54740d3c9f.005.png",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Roles del equipo de desarrollo/Aspose.Words.bad9f896-1af8-4a24-8e8a-1c54740d3c9f.004.png",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Roles del equipo de desarrollo/Roles del equipo de desarrollo.zip",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Roles del equipo de desarrollo",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Nueva carpeta",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Roles del equipo de desarrollo.zip",
     "Principios de Amazon.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Principios Amazon",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Computo en la nube/Ventajas del computo en la nube/Ventajas del computo en la nube.md",
     "Precios.md",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Precios de AWS/Precios de AWS.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Precios de AWS/Precios de AWS.zip",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Precios de AWS",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Objetivos Profesionales",
     "Objetivos.md",
     "Objetivos Profesionales/Objetivos.md",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Computo en la nube/Introduccion al computo/Introducción al cómputo.md",
     "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Introducción al computo.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Introduccion al computo/Introduccion al computo/Introducción al cómputo.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Introduccion al computo/Computo en la nube/Computo en la nube.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Introduccion al computo/Ventajas del computo en la nube/Ventajas del computo en la nube.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Introduccion al computo/Conceptos basicos del computo/Conceptos básicos del computo.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Ventajas del computo en la nube/Ventajas del computo en la nube.md",
-    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Conceptos basicos del computo/Conceptos básicos del computo.md"
+    "Programacion/conocimientoo/Fundamentos de la nube/Amazon Web Services/Introduccion al computo/Introduccion al computo/Introducción al cómputo.md"
   ]
 }
