@@ -15,28 +15,14 @@
               "state": {
                 "file": "Back-End/PHP/Guía de PHP  - Laravel.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Guía de PHP  - Laravel"
             }
-          },
-          {
-            "id": "913cf3930854ba0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instalación Git + Extensiones + Cosas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instalación Git + Extensiones + Cosas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,16 +64,6 @@
               "icon": "lucide-search",
               "title": "Buscar"
             }
-          },
-          {
-            "id": "c78b75f1b9323264",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
@@ -104,64 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "554afbdcc04c1b70",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Webs Utiles.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Webs Utiles"
-            }
-          },
-          {
-            "id": "0c1b193a0fa663bc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Presentacion del bootcamp.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Presentacion del bootcamp"
-            }
-          },
-          {
-            "id": "728ca51d53320cc5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "f9b3b3cbf854ead1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Presentacion del bootcamp.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Presentacion del bootcamp"
-            }
-          },
-          {
             "id": "8e2035d416feca58",
             "type": "leaf",
             "state": {
@@ -171,8 +89,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +98,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -195,15 +111,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "913cf3930854ba0b",
+  "active": "49e883e450e0b805",
   "lastOpenFiles": [
+    "Relaciones.png",
+    "Instalación Git + Extensiones + Cosas.md",
+    "Patron de diseño MVC.png",
     "Historias de usuario.md",
     "Extensiones.md",
     "CamelCase.md",
     "Hojas de ruta.md",
     "OOP/Principios (POO).md",
     "Back-End/PHP",
-    "Instalación Git + Extensiones + Cosas.md",
     "Algunos temas para dejar increíble tu VSC.md",
     "POO/Principios.pdf",
     "POO/Principios Intro.pdf",
@@ -239,8 +157,6 @@
     "Back-End/Relaciones entre tablas.png",
     "Back-End/Patron de diseño MVC.png",
     "SOLID.png",
-    "Patron de diseño MVC.png",
-    "Relaciones entre tablas.png",
-    "Git/image (1).png"
+    "Patron de diseño MVC.png"
   ]
 }
